@@ -1,0 +1,113 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+#registration {
+  height: 65px;
+  width:160px;
+  -moz-border-radius-bottomright: 50px 25px;
+  border-bottom-right-radius: 50px 25px;
+  
+}
+
+form {
+  background-color: #A9A9A9;
+  height: 400px;
+
+}
+
+section {
+ background-color: #A9A9A9;
+}
+
+#input_email{
+  position: relative;
+  width: 300px;
+  left: 105px;
+  height: 35px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+#input_name{
+  position: relative;
+  width: 300px;
+  right: -50px;
+  height: 35px;
+  margin-top: 25px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+
+}
+
+#input_text{
+  position: relative;
+  width: 713px;
+  height: 100px;
+  left: 30px;
+  margin-top: 23px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+#input_telefono{
+  width: 713px;
+  height: 35px;
+  position: relative;
+  left: 30px;
+  margin-top: 30px;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+button{
+  width: 719px;
+  height: 37px;
+  left: 30px;
+  position: relative;
+  margin-top: 46px;
+  color: #1487D2;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 7px 71px;
+    text-decoration: none;
+}
+
